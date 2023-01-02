@@ -4,6 +4,7 @@
 #
 # A: 'sba'  B: 'gasba'
 # A: 'xdh'  B: 'orweit'
+#
 
 a, b = 'sba' ,'gasba'
 print(a in b)

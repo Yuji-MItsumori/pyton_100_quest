@@ -6,6 +6,7 @@
 # float: x = 1.52
 # list: x = [1, 2, 0]
 # dict: x = dict(name = 'john', birth = 'US')
+#
 
 x = 1
 print('整数型の文字列変換       = ' + str(x))
